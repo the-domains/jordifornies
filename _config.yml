@@ -1,0 +1,28 @@
+name: jordifornies
+favicon: null
+layout_spectrum: 0.5439735874533653
+typography_spectrum: 0.9202364312950522
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.4605650883167982
+  lightness: 0.9969204363878816
+  saturation: 0.8059911022428423
+  rhythmicContrast: 0.03267081896774471
+purpose: []
