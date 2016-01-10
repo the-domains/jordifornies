@@ -1,6 +1,6 @@
 name: jordifornies
 favicon: null
-layout_spectrum: 0.5439735874533653
+layout_spectrum: 0.2883
 typography_spectrum: 0.9202364312950522
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#717171'
+    - '#414141'
+    - '#a2a2a2'
+    - '#1c1c1c'
+    - '#e0dbd5'
   brandStrength: 0.4605650883167982
   lightness: 0.9969204363878816
   saturation: 0.8059911022428423
