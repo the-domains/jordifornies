@@ -2,6 +2,7 @@ name: jordifornies
 favicon: null
 layout_spectrum: 0.2883
 typography_spectrum: 0.9202364312950522
+title: Artist
 cta:
   domain: null
   bucket: null
